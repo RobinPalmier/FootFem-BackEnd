@@ -34,13 +34,6 @@
 - Run the commande "npm install"  
 - Run the commande "npm start"  
 
-&nbsp;
-##### Front-End
-- Clone the project from github
-- In a commande terminal use a "cd" to go to the root of the project
-- Run the the commande "npm install"
-- Run the the commande "npm start"
-
 ---
 #### Credit :
 *28/06/2019* - MIT Licence
