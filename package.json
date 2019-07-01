@@ -1,0 +1,31 @@
+{
+  "name": "footfem-server",
+  "version": "1.0.0",
+  "description": "Serveur http pour API Rest",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "server",
+    "http",
+    "api",
+    "rest"
+  ],
+  "author": "Robin Mueen Guillaume",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.0.1",
+    "bcrypt": "^3.0.6",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mysql": "^2.17.1",
+    "nodemailer": "^6.2.1",
+    "nodemon": "^1.19.1",
+    "sequelize": "^3.30.4",
+    "sequelize-cli": "^5.5.0"
+  }
+}
